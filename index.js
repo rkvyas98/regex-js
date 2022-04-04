@@ -14,7 +14,7 @@ const extractAllNumbers = (file, callback) => {
     }
 
 }
-// extractAllNumbers('titanic_ticket.txt', resultFunction)
+// extractAllNumbers('text_doc.txt', resultFunction)
 
 const extractNonAlphanumeric = (file, callback) => {
     try {
